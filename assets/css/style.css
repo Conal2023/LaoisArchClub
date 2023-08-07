@@ -41,6 +41,7 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
+    text-shadow: 1px 1px #3a3a3a;
 }
 
 #menu {
@@ -95,6 +96,22 @@ main {
     width: 100%;
     background: url(../images/Group\ photo.PNG) no-repeat center center/cover;
 }
+
+/* Home page content */
+
+#about {
+    font-size: 150%;
+    letter-spacing: 2px;
+    list-style-type: none;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+}
+
+#about>p {
+    margin-bottom: 1em;
+    padding: 2%;
+}
+
 
 /* Footer */
 #social-networks {
