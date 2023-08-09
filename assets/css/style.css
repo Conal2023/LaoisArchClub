@@ -17,7 +17,15 @@ body {
     color: #3a3a3a;
     font-family: 'barlow', sans-serif;
 }
-
+h1,
+h2,
+h3 {
+    font-family: 'Quicksand', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
+    text-shadow: 1px 1px #3a3a3a;
+}
 /* Header */
 header {
     background-color: #ffffff;
@@ -34,14 +42,6 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-}
-
-h1 {
-    font-family: 'Quicksand', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #252525;
-    text-shadow: 1px 1px #3a3a3a;
 }
 
 #menu {
@@ -120,7 +120,6 @@ main {
 }
 
 /* Gallery page */
-
 #photos img {
     width: 100%;
     line-height: 1em;
@@ -144,9 +143,17 @@ main {
     padding: 5%;
     color: #3a3a3a;
 }
+/* Media query: large or landscap phones (576px and up) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
 
-/* media query: tablets and larger (760px and up) */
+/* Media query: tablets and larger (760px and up) */
 @media screen and (min-width: 760px) {
+    
     /* Header */
     nav {
         display: block;
@@ -173,19 +180,27 @@ main {
         line-height: 75px;
         margin: 0 0.5rem;
     }
-    
 
-        /* Main content */
-        main {
-            /* Push main content down to accommodate larger header */
-            margin-top: 85px;
-        }
+/* Main content */
+main {
+    /* Push main content down to accommodate larger header */
+    margin-top: 79px;
 }
 
+    /* Gallery */
+    #photos {
+        column-count: 3;
+    }
+
+}
 /* larger devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
     }  
+        /* Gallery */
+    #photos {
+        column-count: 4;
+    }
   
 }
