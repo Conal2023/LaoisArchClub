@@ -3,9 +3,9 @@
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
-   padding: 0;
-   margin: 0;
-   box-sizing: border-box; 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 /* General Styles */
@@ -17,6 +17,7 @@ body {
     color: #3a3a3a;
     font-family: 'barlow', sans-serif;
 }
+
 h1,
 h2,
 h3 {
@@ -26,6 +27,7 @@ h3 {
     color: #252525;
     text-shadow: 1px 1px #3a3a3a;
 }
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -50,7 +52,7 @@ header a {
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
 
@@ -85,7 +87,7 @@ nav {
 
 /* Main Content */
 main {
-        /* Make main element take up any surplus space to push footer down */
+    /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 47px;
 }
@@ -95,7 +97,7 @@ main {
     height: 450px;
     width: 100%;
     background: url(../images/Group\ photo.PNG) no-repeat center center/cover;
-       
+
 }
 
 /* Home page content */
@@ -116,7 +118,7 @@ main {
 #next-event {
     text-align: center;
     font-size: large;
-    
+
 }
 
 /* Gallery page */
@@ -129,6 +131,49 @@ main {
     line-height: 0;
 }
 
+/* Contact Page  */
+#contactus {
+    background-image: url(../images/Group\ photo.PNG);
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
+#contactus_form {
+   color: #ffffff;
+   background-color: rgba(60, 60, 60, 0.6);
+   padding: 30px; 
+}
+#contactus_form>h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+.radio-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.submit-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: #454b1b;
+    color: #fafafa;
+}
+
+
 /* Footer */
 #social-networks {
     text-align: center;
@@ -136,13 +181,14 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style: none;
-    }
-   
+}
+
 #social-networks i {
     font-size: 160%;
     padding: 5%;
     color: #3a3a3a;
 }
+
 /* Media query: large or landscap phones (576px and up) */
 @media screen and (min-width: 576px) {
     #photos {
@@ -151,9 +197,9 @@ main {
     }
 }
 
-/* Media query: tablets and larger (760px and up) */
-@media screen and (min-width: 760px) {
-    
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+
     /* Header */
     nav {
         display: block;
@@ -162,12 +208,12 @@ main {
         width: fit-content;
         padding-right: 1rem;
     }
-    
+
     #menu {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding: 1rem;
     }
 
@@ -181,11 +227,11 @@ main {
         margin: 0 0.5rem;
     }
 
-/* Main content */
-main {
-    /* Push main content down to accommodate larger header */
-    margin-top: 85px;
-}
+    /* Main content */
+    main {
+        /* Push main content down to accommodate larger header */
+        margin-top: 85px;
+    }
 
     /* Gallery */
     #photos {
@@ -193,14 +239,37 @@ main {
     }
 
 }
+
+/* Contact Us */
+#contactus {
+    background-position: center;
+    position: relative;
+}
+
+#contactus_form {
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    top: 150px;
+}
+
+.text-input:hover {
+    border-color: #f16c6b;
+}
+
+.submit-button:hover {
+    background-color: #fafafa;
+    color: #454b1b;
+    }
 /* larger devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
-    #menu a:hover{
+    #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
-    }  
-        /* Gallery */
+    }
+
+    /* Gallery */
     #photos {
         column-count: 4;
     }
-  
+
 }
