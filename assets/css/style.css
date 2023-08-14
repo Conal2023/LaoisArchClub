@@ -141,14 +141,16 @@ main {
 }
 
 #contactus_form {
-   color: #ffffff;
-   background-color: rgba(60, 60, 60, 0.6);
-   padding: 30px; 
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.295);
+    padding: 30px;
 }
+
 #contactus_form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
+
 .text-input {
     background: transparent;
     color: #fafafa;
@@ -159,19 +161,24 @@ main {
     border-radius: 2px;
     padding: 0 5px;
 }
+
 .radio-buttons {
     width: 100%;
     display: flex;
     justify-content: space-between;
 }
-.submit-button {
+
+.submit {
     margin-top: 20px;
     border-radius: 2px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color: #454b1b;
-    color: #fafafa;
+    background-color: #b6b99e;
+    color: #ffffff;
 }
+
+/* Feedback page */
+
 
 
 /* Footer */
@@ -248,19 +255,19 @@ main {
 
 #contactus_form {
     max-width: 400px;
-    position: absolute;
     left: 10%;
     top: 150px;
 }
 
 .text-input:hover {
-    border-color: #f16c6b;
+    border-color: #f70000;
 }
 
 .submit-button:hover {
-    background-color: #fafafa;
-    color: #454b1b;
-    }
+    background-color: #b6b99e;
+    color: #ffffff;
+}
+
 /* larger devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
