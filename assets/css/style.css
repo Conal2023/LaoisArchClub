@@ -10,7 +10,7 @@
 
 /* General Styles */
 body {
-    background-color: #9eb3bb;
+    background-color: #cfe0e8;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -31,7 +31,7 @@ h3 {
 
 /* Header */
 header {
-    background-color: #aeeedc;
+    background-color: #87bdd8;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -64,7 +64,7 @@ header a {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #aeeedc;
+    background-color: #87bdd8;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -107,6 +107,7 @@ main {
     font-size: 150%;
     letter-spacing: 2px;
     list-style-type: none;
+    padding: 1em;
     margin-left: 1.5em;
     margin-right: 1.5em;
 }
@@ -123,6 +124,7 @@ main {
 }
 
 /* Gallery page */
+
 #photos img {
     width: 100%;
     line-height: 1em;
@@ -136,28 +138,31 @@ main {
 .heading {
     text-align: center;
     padding: 1em;
-    }
-
-#heading {
-    text-align: center;
-    font-size: x-large;
-    padding: 3em;
 }
 
-#contactus {
+#love-to-hear-from-you {
+    font-size: 150%;
+        letter-spacing: 2px;
+        list-style-type: none;
+        margin-left: 1.5em;
+        margin-right: 1.5em;
+}
+#love-to-hear-from-you>p {
+    margin-bottom: 1em;
+        padding: 2%;
+}
+#get-in-touch {
     background-image: url(../images/Group\ photo.PNG);
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
-    flex-grow: 1;
-    display: flex;
-    flex-direction: column;
 }
 
 #contactus_form {
     color: #ffffff;
-    background-color: rgba(0, 0, 0, 0.295);
+    background-color: rgba(36, 34, 34, 0.6);
     padding: 30px;
+
 }
 
 #contactus_form>h2 {
@@ -172,8 +177,9 @@ main {
     height: 25px;
     margin: 5px 0 20px 0;
     border: 1px solid #ffffff;
-    border-radius: 2px;
+    border-radius: 15px;
     padding: 0 5px;
+
 }
 
 .radio-buttons {
@@ -184,7 +190,7 @@ main {
 
 .submit {
     margin-top: 20px;
-    border-radius: 2px;
+    border-radius: 35px;
     padding: 15px 32px;
     font-size: 100%;
     background-color: #b6b99e;
@@ -193,16 +199,21 @@ main {
 
 /* Feedback page */
 
-.thanku {
+.thankyou {
     text-align: center;
     font-size: xx-large;
     padding: 2em;
 }
+
 #thanku {
     text-align: center;
     font-size: xx-large;
 }
 
+#thanku>p {
+    margin-bottom: 1em;
+        padding: 2%;
+}
 
 /* Footer */
 #social-networks {
@@ -271,7 +282,7 @@ main {
 }
 
 /* Contact Us */
-#contactus {
+#get-in-touch {
     background-position: center;
     position: relative;
 }
@@ -283,7 +294,7 @@ main {
 }
 
 .text-input:hover {
-    border-color: #f70000;
+    border-color: #000000;
 }
 
 .submit-button:hover {
