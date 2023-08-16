@@ -8,11 +8,11 @@
 
 - __Navigation Bar__
 
- - The Navigation bar allows users to freely flow between the 3 pages. 
- - With the full responsive Navigation bar users can simply click on the links a navigate around the website.
+  - The Navigation bar allows users to freely flow between the 3 pages. 
+  - With the full responsive Navigation bar users can simply click on the links a navigate around the website.
 (insert image)
 
 - __Group Photo image__
  
- - This photo inculdes most of our members who recently attended a fundraiser for Laois Arch Club. 
- - This photo shows what Laois Arch Club is all about - the members.  
+  - This photo inculdes most of our members who recently attended a fundraiser for Laois Arch Club. 
+  - This photo shows what Laois Arch Club is all about - the members.  
