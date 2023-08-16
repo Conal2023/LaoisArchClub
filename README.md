@@ -14,5 +14,15 @@
 
 - __Group Photo image__
  
-  - This photo inculdes most of our members who recently attended a fundraiser for Laois Arch Club. 
-  - This photo shows what Laois Arch Club is all about - the members.  
+  - This photo inculdes most of our members who recently attended a fundraiser for Laois Arch Club.
+  - This photo shows what Laois Arch Club is all about - the members.
+
+- __What is Laois Arch Club__
+
+  - This section give a bt of a background about Laois Arch Club and what exactly they do.
+  - Users will see the benefits the group has with what they do for their members and this should help encourage them to join our volunteers. 
+
+- __Next Event__
+  
+  - This very simply advises anyone who comes and views the page when the next event is on. It also advises of the time and location of the event. 
+  - This can simply be update after each event to the next date. 
