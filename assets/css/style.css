@@ -155,7 +155,7 @@ main {
     margin-bottom: 2em;
     height: 90%;
     padding: 20px;
-    background-color: #87bdd8;
+    background-color: #C4D49F;
     text-align: center;
     font-size: large;
     border-radius: 35px;
@@ -183,7 +183,7 @@ main {
 }
 
 #contactus_form>h2 {
-    color: #fafafa;
+    color: #ffffff;
     margin-bottom: 20px;
 }
 
@@ -209,7 +209,7 @@ main {
     border-radius: 35px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color: #87bdd8;
+    background-color: #C4D49F;
     color: #000000;
 }
 
@@ -221,7 +221,7 @@ main {
     margin-right: 2em;
     height: 300px;
     padding: 20px;
-    background-color: #87bdd8;
+    background-color: #C4D49F;
     text-align: center;
     font-size: large;
 }
