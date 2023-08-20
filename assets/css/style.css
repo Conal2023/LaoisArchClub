@@ -143,21 +143,22 @@ main {
 }
 
 /* Contact Page  */
-.heading {
-    text-align: center;
-    padding: 1em;
-}
+
 
 #love-to-hear-from-you {
-    font-size: 150%;
-    letter-spacing: 2px;
-    list-style-type: none;
-    margin-left: 1.5em;
-    margin-right: 1.5em;
+    margin-top: 4em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+    height: 300px;
+    padding: 20px;
+    background-color: #87bdd8;
+    text-align: center;
+    font-size: large;
 }
 
 #love-to-hear-from-you>p {
-    margin-bottom: 1em;
+    margin-bottom: 1px;
     padding: 2%;
 }
 
@@ -166,6 +167,7 @@ main {
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
+    margin-bottom: 2em;
 }
 
 #contactus_form {
@@ -201,21 +203,21 @@ main {
     border-radius: 35px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color: #b6b99e;
-    color: #ffffff;
+    background-color: #87bdd8;
+    color: #000000;
 }
 
 /* Feedback page */
 
-.thankyou {
-    text-align: center;
-    font-size: xx-large;
-    padding: 2em;
-}
-
 #thanku {
+margin-top: 6em;
+    margin-left: 2em;
+    margin-right: 2em;
+    height: 300px;
+    padding: 20px;
+    background-color: #87bdd8;
     text-align: center;
-    font-size: xx-large;
+    font-size: large;
 }
 
 #thanku>p {
