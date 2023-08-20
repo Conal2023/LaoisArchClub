@@ -106,7 +106,7 @@ main {
     margin-top: 4em;
     margin-left: 2em;
     margin-right: 2em;
-    height: 450px;
+    height: 90%;
     padding: 20px;
     background-color: #87bdd8;
     text-align: center;
@@ -118,14 +118,14 @@ main {
     padding: 2%;
 }
 
-.next-event {
-    width: 400px;
-    height: 250px;
+#next-event {
+    width: 60%;
+    height: 50%;
     border: 3px solid #346a85;
-    padding: 20px;
+    padding: 5px;
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-left: 40em;
+    margin-left: 20%;
     background-color: #87bdd8;
     text-align: center;
     font-size: large;
@@ -210,7 +210,7 @@ main {
 /* Feedback page */
 
 #thanku {
-margin-top: 6em;
+    margin-top: 6em;
     margin-left: 2em;
     margin-right: 2em;
     height: 300px;
@@ -313,8 +313,8 @@ footer {
 }
 
 .submit-button:hover {
-    background-color: #b6b99e;
-    color: #ffffff;
+    background-color: #87bdd8;
+    color: #000000;
 }
 
 /* larger devices (laptops and desktops, 992px and up) */
