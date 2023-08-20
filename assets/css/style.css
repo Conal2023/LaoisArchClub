@@ -40,7 +40,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-}
+    }
 
 header a {
     text-decoration: none;
@@ -171,12 +171,14 @@ main {
     background-position: 75%;
     padding: 20px 10% 0 10%;
     margin-bottom: 2em;
+    border-radius: 35px;
 }
 
 #contactus_form {
     color: #ffffff;
     background-color: rgba(36, 34, 34, 0.6);
     padding: 30px;
+    border-radius: 35px;
 }
 
 #contactus_form>h2 {
