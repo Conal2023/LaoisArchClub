@@ -98,18 +98,19 @@ main {
     height: 450px;
     width: 100%;
     background: url(../images/group-photo.jpg) no-repeat center center/cover;
-
 }
 
 /* Home page content */
 
 #about {
-    font-size: 150%;
-    letter-spacing: 2px;
-    list-style-type: none;
-    padding: 1em;
-    margin-left: 1.5em;
-    margin-right: 1.5em;
+    margin-top: 4em;
+    margin-left: 2em;
+    margin-right: 2em;
+    height: 450px;
+    padding: 20px;
+    background-color: #87bdd8;
+    text-align: center;
+    font-size: large;
 }
 
 #about>p {
@@ -117,10 +118,17 @@ main {
     padding: 2%;
 }
 
-#next-event {
+.next-event {
+    width: 400px;
+    height: 250px;
+    border: 3px solid #346a85;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 40em;
+    background-color: #87bdd8;
     text-align: center;
     font-size: large;
-
 }
 
 /* Gallery page */
@@ -164,7 +172,6 @@ main {
     color: #ffffff;
     background-color: rgba(36, 34, 34, 0.6);
     padding: 30px;
-
 }
 
 #contactus_form>h2 {
@@ -181,7 +188,6 @@ main {
     border: 1px solid #ffffff;
     border-radius: 15px;
     padding: 0 5px;
-
 }
 
 .radio-buttons {
@@ -222,7 +228,6 @@ main {
 footer {
     background-color: #87bdd8;
     height: 100px;
-
 }
 
 #social-networks {
@@ -287,7 +292,6 @@ footer {
     #photos {
         column-count: 3;
     }
-
 }
 
 /* Contact Us */

@@ -10,6 +10,7 @@
 
   - The Navigation bar allows users to freely flow between the 3 pages.
   - With the full responsive Navigation bar users can simply click on the links a navigate around the website.
+  - Nav bar is addopted fro the Love Running project. 
 (insert image)
 
 - __Group Photo image__
