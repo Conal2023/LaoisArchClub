@@ -142,15 +142,17 @@ main {
 
 #love-to-hear-from-you {
     font-size: 150%;
-        letter-spacing: 2px;
-        list-style-type: none;
-        margin-left: 1.5em;
-        margin-right: 1.5em;
+    letter-spacing: 2px;
+    list-style-type: none;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
 }
+
 #love-to-hear-from-you>p {
     margin-bottom: 1em;
-        padding: 2%;
+    padding: 2%;
 }
+
 #get-in-touch {
     background-image: url(../images/group-photo.jpg);
     background-size: cover;
@@ -212,10 +214,17 @@ main {
 
 #thanku>p {
     margin-bottom: 1em;
-        padding: 2%;
+    padding: 2%;
 }
 
 /* Footer */
+
+footer {
+    background-color: #87bdd8;
+    height: 100px;
+
+}
+
 #social-networks {
     text-align: center;
     padding: 20px 0;
