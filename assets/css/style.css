@@ -111,6 +111,7 @@ main {
     background-color: #87bdd8;
     text-align: center;
     font-size: large;
+    border-radius: 35px;
 }
 
 #about>p {
@@ -129,6 +130,7 @@ main {
     background-color: #87bdd8;
     text-align: center;
     font-size: large;
+    border-radius: 35px;
 }
 
 /* Gallery page */
@@ -155,6 +157,7 @@ main {
     background-color: #87bdd8;
     text-align: center;
     font-size: large;
+    border-radius: 35px;
 }
 
 #love-to-hear-from-you>p {
