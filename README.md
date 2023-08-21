@@ -77,3 +77,7 @@ People who visit the page wiLL be able to find out when the next event is, keep 
 - Throughout the project I had issues where the preview page wouldn't update after I had changed something through CSS even after a hard refresh. The first 2-3 times this happened I found it very frustrating and had to walk away from the PC for a couple of minutes. WhenI came back Codeanywhere would have signed out and I would have to sign in and open the preview page again. When the page reopened the change woud have taken place. After some digging into this through Slack chat i found out this was due to the caches on my browser. Since this whenever a change didnt take effect I would clear the caches first before making sure it wasnt something else.
 
 - Another issue I had was when I put the box around the next event feature. This caused issues with the media feature and would cuse the box to pull far to the right away from the rest of the page. This was fixed by changing the units to a percentage rather than figure. (em,px to %). Once fixed the box appeared correctly under the media requet.
+
+## Unsolved bugs
+
+- I am getting a warning regarding my Google Fonts Imports advising me the "Import statements do not load in parrallel". Even though I am getting this warning the fonts are still working on the website. Upon investgation through chats with fellow students on Slack it seems a few students are also having this problem with no one able to find a solution. This will need to be investigated at a later stage.
