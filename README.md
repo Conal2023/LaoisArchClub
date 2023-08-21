@@ -51,16 +51,29 @@ People who visit the page wiLL be able to find out when the next event is, keep 
 - __Contact Us__
 
   - This page allows users to contact Laois Arch Club regarding joining as a member, joining as a volunteer or finding out about supporting this great cause.
+  - The contact form will pop up errors if users dont fill in the required information.
 ![Contact us](docs/screenshots/contact-us.JPG)
 
 - __Feedback__
 
   - This page will pop up when a user fills out the contact us form.
-  - It is our way of thanksing them for taking time to contact us and show we appricate it.
+  - It is our way of thanking them for taking time to contact us and shows we appricate it.
+![Feedback](docs/screenshots/feedback.JPG)
 
 # Testing
 
 - I have tested this web page n three different browsers and works on all: Chrome, Edge, Firefox.
-- Device toolbar was also used to see thewebsite through different screen sizes.
+  
+- Device toolbar was also used to see the website through different screen sizes.
+  
 - All of the links on the page were tested and confirmed to be responding as they should.
+  
 - The contact us form was tested to make sure the fields that required information gave an error, the submit button tested to confirm it work and also once the submit button was ticked the feedback page responded.
+
+# Bugs
+
+## Solved bugs
+
+- Throughout the project I had issues where the preview page wouldn't update after I had changed something through CSS even after a hard refresh. The first 2-3 times this happened I found it very frustrating and had to walk away from the PC for a couple of minutes. WhenI came back Codeanywhere would have signed out and I would have to sign in and open the preview page again. When the page reopened the change woud have taken place. After some digging into this through Slack chat i found out this was due to the caches on my browser. Since this whenever a change didnt take effect I would clear the caches first before making sure it wasnt something else.
+
+- Another issue I had was when I put the box around the next event feature. This caused issues with the media feature and would cuse the box to pull far to the right away from the rest of the page. This was fixed by changing the units to a percentage rather than figure. (em,px to %). Once fixed the box appeared correctly under the media requet.
