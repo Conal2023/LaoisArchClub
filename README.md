@@ -1,8 +1,10 @@
 # Laois Arch Club
 
-[Laois Arch Club](https://conal2023.github.io/LaoisArchClub/) is a website for a local organisation for adults with intellectual disabilities. People who visit the page with be able to find out when the next event is, keep up to date via our social links, see the latest photos from recent event and also contact us.
+[Laois Arch Club](https://conal2023.github.io/LaoisArchClub/) is a website for a local organisation for adults with intellectual disabilities. The website was set up to help promote such a good organisation that I personal have helped in the past and which family member currently siill active with their support.
 
-![Responsive webpage on different screens]
+People who visit the page wiLL be able to find out when the next event is, keep up to date via our social links, see the latest photos from recent event and also contact us.
+
+![Responsive webpage on different screens](docs/screenshots/responsive.JPG)
 
 ## Features
 
@@ -11,7 +13,7 @@
   - The Navigation bar allows users to freely flow between the 3 pages.
   - With the full responsive Navigation bar users can simply click on the links a navigate around the website.
   - Nav bar is addopted fro the Love Running project.
-(insert image)
+  (docs/screenshots/nav-bar.JPG)
 
 - __Group Photo image__
 
