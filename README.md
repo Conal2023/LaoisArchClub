@@ -85,7 +85,11 @@ People who visit the page wiLL be able to find out when the next event is, keep 
 # Validator Testing
 
 - HTML
-    - No errors were returned when passing through the official W3C validator
+    - No errors were returned when passing through the official W3C validator.
 
 - CSS
-    - The only errors found when passing through the offical Jigsaw validator were connected to the Google Fonts
+    - No errors were found when passing through the offical (jigsaw) validator.
+
+- Accessibility
+    - From running through lighthouse I confirmed that the colours and fonts chosen are easy to read and accessible.
+  [Accessibility](docs/screenshots/lighthouse-home.JPG)
