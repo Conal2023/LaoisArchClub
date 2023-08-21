@@ -224,6 +224,7 @@ main {
     background-color: #C4D49F;
     text-align: center;
     font-size: large;
+    border-radius: 35px;
 }
 
 #thanku>p {

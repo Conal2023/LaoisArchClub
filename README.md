@@ -46,11 +46,12 @@ People who visit the page wiLL be able to find out when the next event is, keep 
 - __Gallery__
 
   - Here users can see some of our recent events and see the work we are doing to help our members and their family.
-  - The user will benefit from this section because it will make it simple for them to understand the kinds of events that the organisation runs. 
+  - The user will benefit from this section because it will make it simple for them to understand the kinds of events that the organisation runs.
 
 - __Contact Us__
 
   - This page allows users to contact Laois Arch Club regarding joining as a member, joining as a volunteer or finding out about supporting this great cause.
+![Contact us](docs/screenshots/contact-us.JPG)
 
 - __Feedback__
 
