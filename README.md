@@ -81,3 +81,11 @@ People who visit the page wiLL be able to find out when the next event is, keep 
 ## Unsolved bugs
 
 - I am getting a warning regarding my Google Fonts Imports advising me the "Import statements do not load in parrallel". Even though I am getting this warning the fonts are still working on the website. Upon investgation through chats with fellow students on Slack it seems a few students are also having this problem with no one able to find a solution. This will need to be investigated at a later stage.
+
+# Validator Testing
+
+- HTML
+    - No errors were returned when passing through the official W3C validator
+
+- CSS
+    - The only errors found when passing through the offical Jigsaw validator were connected to the Google Fonts
