@@ -92,4 +92,4 @@ People who visit the page wiLL be able to find out when the next event is, keep 
 
 - Accessibility
     - From running through lighthouse I confirmed that the colours and fonts chosen are easy to read and accessible.
-  [Accessibility](docs/screenshots/lighthouse-home.JPG)
+  ![Accessibility](docs/screenshots/lighthouse-home.JPG)
