@@ -62,6 +62,20 @@ People who visit the page wiLL be able to find out when the next event is, keep 
   - It is our way of thanking them for taking the time to contact us and showing we appreciate it.
     ![Feedback](docs/screenshots/feedback.JPG)
 
+
+## Wireframe
+
+- Using a program called Balsamiq, the wireframe was created. Before the website was built, this tool helped design an early version of it. This made planning how things would look and where images and material would be placed easy. Additionally, it assisted in ensuring that everything seemed well on various gadgets like phones and desktops.
+
+- About Page
+  ![About Page](docs/screenshots/wireframe-about.JPG)
+
+- Gallery Page
+  ![Gallery Page](docs/screenshots/wireframe-gallery.JPG)
+
+- Contact Page
+  ![Contact Page](docs/screenshots/wireframe-contactus.JPG)
+
 ## Testing
 
 - I have tested this web page n three different browsers and works on all: Chrome, Edge, and Firefox.
