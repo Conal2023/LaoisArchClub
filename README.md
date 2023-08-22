@@ -52,6 +52,7 @@ People who visit the page wiLL be able to find out when the next event is, keep 
 
   - This page allows users to contact Laois Arch Club regarding joining as a member, joining as a volunteer or finding out about supporting this great cause.
   - The contact form will pop up errors if users dont fill in the required information.
+  - The form is just a dummy form and doesn't actually submit any information.
     ![Contact us](docs/screenshots/contact-us.JPG)
 
 - **Feedback**
