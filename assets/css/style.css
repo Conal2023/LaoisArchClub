@@ -177,8 +177,10 @@ main {
     background-image: url(../images/group-photo.jpg);
     background-size: cover;
     background-position: 75%;
-    padding: 20px 10% 0 10%;
-    margin-bottom: 2em;
+    padding: 2% 10% 2% 10%;
+    margin-bottom: 4em;
+    margin-left: 2em;
+    margin-right: 2em;
     border-radius: 35px;
 }
 
@@ -187,11 +189,11 @@ main {
     background-color: rgba(36, 34, 34, 0.6);
     padding: 30px;
     border-radius: 35px;
-}
+    }
 
 #contactus_form>h2 {
     color: #ffffff;
-    margin-bottom: 20px;
+    margin-bottom: 2em;
 }
 
 .text-input {
