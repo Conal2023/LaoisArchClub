@@ -222,7 +222,7 @@ main {
 
 /* Feedback page */
 
-#thanku {
+#thank-you {
     margin-top: 6em;
     margin-left: 2em;
     margin-right: 2em;
@@ -234,7 +234,7 @@ main {
     border-radius: 35px;
 }
 
-#thanku>p {
+#thank-you>p {
     margin-bottom: 1em;
     padding: 2%;
 }
