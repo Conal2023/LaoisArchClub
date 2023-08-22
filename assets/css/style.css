@@ -19,9 +19,8 @@ body {
     font-family: 'barlow', sans-serif;
 }
 
-h1,
-h2,
-h3 {
+h1
+ {
     font-family: 'Quicksand', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -29,6 +28,14 @@ h3 {
     text-shadow: 1px 1px #3a3a3a;
 }
 
+h2
+h3 {
+font-family: 'Quicksand', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #000000;
+    text-shadow: 1px 1px #3a3a3a;
+}
 /* Header */
 header {
     background-color: #051937;
