@@ -47,6 +47,7 @@ People who visit the page wiLL be able to find out when the next event is, keep 
 
   - Here users can see some of our recent events and see the work we are doing to help our members and their family.
   - The user will benefit from this section because it will make it simple for them to understand the kinds of events that the organisation runs.
+    ![Gallery](docs/screenshots/gallery.jpg)
 
 - **Contact Us**
 

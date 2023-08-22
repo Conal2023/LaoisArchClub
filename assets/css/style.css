@@ -19,8 +19,7 @@ body {
     font-family: 'barlow', sans-serif;
 }
 
-h1
- {
+h1 {
     font-family: 'Quicksand', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -28,14 +27,14 @@ h1
     text-shadow: 1px 1px #3a3a3a;
 }
 
-h2
-h3 {
-font-family: 'Quicksand', sans-serif;
+h2 h3 {
+    font-family: 'Quicksand', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #000000;
     text-shadow: 1px 1px #3a3a3a;
 }
+
 /* Header */
 header {
     background-color: #051937;
@@ -47,7 +46,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    }
+}
 
 header a {
     text-decoration: none;
@@ -189,7 +188,7 @@ main {
     background-color: rgba(36, 34, 34, 0.6);
     padding: 30px;
     border-radius: 35px;
-    }
+}
 
 #contactus_form>h2 {
     color: #ffffff;
@@ -312,26 +311,26 @@ footer {
     }
 }
 
-/* Contact Us */
-#get-in-touch {
-    background-position: center;
-    position: relative;
-}
+    /* Contact Us */
+    #get-in-touch {
+        background-position: center;
+        position: relative;
+    }
 
-#contactus_form {
-    max-width: 400px;
-    left: 10%;
-    top: 150px;
-}
+    #contactus_form {
+        max-width: 400px;
+        left: 10%;
+        top: 150px;
+    }
 
-.text-input:hover {
-    border-color: #000000;
-}
+    .text-input:hover {
+        border-color: #000000;
+    }
 
-.submit-button:hover {
-    background-color: #87bdd8;
-    color: #000000;
-}
+    .submit-button:hover {
+        background-color: #87bdd8;
+        color: #000000;
+    }
 
 /* larger devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
