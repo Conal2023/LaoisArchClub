@@ -102,7 +102,7 @@ People who visit the page wiLL be able to find out when the next event is, keep 
     ![Lighthouse Gallery Page](docs/screenshots/lighthouse-gallery.JPG)
 
   - Contact Us Page Lighthouse
-    ![Lighthouse Contactus Page](docs/screenshots/lighthouse-contact us.JPG)
+    ![Lighthouse Contactus Page](docs/screenshots/lighthouse-contact-us.JPG)
   
   - Feedback Page Lighthouse
     ![Lighthouse Feedback Page](docs/screenshots/lighthouse-feedback.JPG)
