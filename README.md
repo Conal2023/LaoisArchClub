@@ -35,7 +35,7 @@ People who visit the page wiLL be able to find out when the next event is, keep 
 
   - This very simply advises anyone who comes and views the page of when the next event is on. It also advises of the time and location of the event.
   - This can simply be update after each event to the next date.
-    ![nav bar image](docs/screenshots/nav-bar.JPG)
+    ![next-event](docs/screenshots/next-event.JPG)
 
 - **The Footer**
 
