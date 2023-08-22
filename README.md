@@ -103,6 +103,9 @@ People who visit the page wiLL be able to find out when the next event is, keep 
 
   - Contact Us Page Lighthouse
     ![Lighthouse Contact Us Page](docs/screenshots/lighthouse-contact us.JPG)
+  
+  - Feedback Page Lighthouse
+    ![Lighthouse Feedback Page](docs/screenshots/lighthouse-feedback.JPG)
 
 ## Deployment
 
