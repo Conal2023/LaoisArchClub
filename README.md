@@ -141,7 +141,7 @@ You can find the live site here [Laois Arch Club webpage](https://conal2023.gith
 
 ## Media / Content
 
-- The About section and all images were provided by Laois Arch Club for the website. The images would have been taken from their Facebook page which is public and members would have had to opt out of photos taken so no copyrights have been broken.
+- The About section and all images were provided by Laois Arch Club for the website. The images would have been taken from their Facebook page which is public and members would have had to opt out of photos taken so no copyrights have been broken [Laois Arch Club Facebook Page](https://www.facebook.com/LaoisArchClub/)
 - The Favicon icon was taken from the website [favicon.io](https://favicon.io/).
 - The font for the page came from [Google Font](https://fonts.google.com/).
 - The icons used on the page came from [Font Awesome](https://fontawesome.com/)
